@@ -18,7 +18,7 @@ easy_admin:
       - Tag
       - {label: "Settings"}
       - {entity: User, icon: "user", permission: 'ROLE_ADMIN'}
-  site_name: 'OverSeas <b>Media</b>'
+  site_name: 'My super  <b>Agency</b>'
   user:
     display_name: true
     display_avatar: true
